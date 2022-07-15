@@ -17,3 +17,7 @@ THEN I am presented with a responsive layout that adapts to my viewport </br>
 
 **Wesite** </br>
 https://martas333.github.io/challenge2/
+
+**Image of website:**
+
+![My website](assets/images/webpage.png)
